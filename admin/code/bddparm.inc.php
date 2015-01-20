@@ -1,5 +1,5 @@
 <?php
     define("MYHOST", "localhost");
-    define("MYUSER", "djasy");
-    define("MYPASS", "Cresha24");
+    define("MYUSER", "user");
+    define("MYPASS", "password");
 ?>
