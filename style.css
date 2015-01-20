@@ -1,0 +1,37 @@
+body{
+	background-color: #99CCFF;
+}
+div.pageWrapper{
+	width: 700px;
+
+	margin: auto;
+	margin-top: : none;
+	padding: 20px;
+	background-color: white;
+}
+
+div.foot{
+	text-align: center;
+}
+
+
+button.searchButton{
+	position: relative;
+	top:5px;
+}
+
+div.addComment{
+	margin: auto;
+	width: 400px;
+}
+
+#content{
+	width: 650px;
+	min-height: 800px;
+	margin: auto;
+}
+
+#content{
+	margin-top: 25px;
+ 	margin-bottom: 25px;
+}

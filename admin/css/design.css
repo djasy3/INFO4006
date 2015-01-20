@@ -1,0 +1,39 @@
+td.cellule{
+    cursor:pointer;
+}
+div#erreur {
+    color: #F00;
+    text-align: center;
+    font-weight: bold;
+}
+th
+{
+    font-weight:bold;
+    padding:10px;
+    background-color:grey;
+}
+td
+{
+    padding:10px;
+}
+body {
+    width:100%;
+    padding:10%;
+    padding-top:0px;
+    font-size:medium;
+    font-family:Tahoma, nimbus;
+    color :rgb(96, 81, 47);
+}
+input[type="text"]:focus {
+    border-color:rgb(104, 104, 104);
+    box-shadow: 0 0 6px rgb(104, 104, 104);
+    outline: none;
+}
+textarea {
+    resize:none;
+}
+textarea:focus {
+    border-color:rgb(104, 104, 104);
+    box-shadow: 0 0 6px rgb(104, 104, 104);
+    outline: none;
+}
